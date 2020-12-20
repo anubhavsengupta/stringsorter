@@ -123,16 +123,6 @@ entryButton = Button(root, text='Save', command=saveLog)
 entryButton.pack()
 
 
-# Measure elapsed time
-def measureElapsedTime():
-    start = timeit.timeit()
-    end = timeit.timeit()
-    print(end)
-
-
-measureElapsedTime()
-
-
 # Quit
 def quit():
     root.quit()

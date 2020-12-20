@@ -1,2 +1,4 @@
-# a graphical user interface that takes any thing as an input. 
-# It can either reverse the string or sort it.
+# String Sorter
+
+
+A graphical User interface that can reverse or sort a give sequence of numbers or characters.
